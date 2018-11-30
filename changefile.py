@@ -1,0 +1,6 @@
+reg32=['eax','ecx','edx','ebx','esp','ebp','esi','edi']
+reg16=['ax','cx','dx','bx','sp','bp','si','di']
+reg8=['al','cl','dl','bl','ah','ch','dh','bh']
+REG32=['32REG0','32REG1','32REG2','32REG3','32REG4','32REG5','32REG6','32REG7']      
+REG16=['16REG0','16REG1','16REG2','16REG3','16REG4','16REG5','16REG6','16REG7']
+REG8=['8REG0','8REG1','8REG2','8REG3','8REG4','8REG5','8REG6','8REG7']

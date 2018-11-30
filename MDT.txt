@@ -1,0 +1,21 @@
+----------------------< Macro Defination Table >---------------------------
+Index	LineNo	Content
+-------------------------------------------------------------------------------
+Index	LineNo	Content
+1	0		mov eax,%1
+
+2	1		mov ebx,%2
+
+3	2		add eax,ebx
+
+Index	LineNo	Content
+6	5		first 60,20
+
+7	6		push eax 
+
+8	7		push ans
+
+9	8		call printf
+
+10	9		add esp,8
+

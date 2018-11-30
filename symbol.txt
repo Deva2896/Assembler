@@ -1,0 +1,13 @@
+Name	Size	No. of Ele	S/L	Define/Undefine		Address
+sen2	4	4		S	Defined			0
+sen3	8	3		S	Defined			16
+sen4	2	1		S	Defined			40
+sen1	1	1		S	Defined			42
+a	1	3		S	Defined			43
+b	8	3		S	Defined			46
+c	4	3		S	Defined			70
+zz	2	3		S	Defined			82
+abc	-	-		L	Defined			-
+xyz	-	-		L	Defined			-
+tst	-	-		L	Undefined		-
+pqr	-	-		L	Defined			-

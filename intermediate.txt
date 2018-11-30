@@ -1,0 +1,28 @@
+section .data
+
+	
+
+	sen2 dd 30,40,50,60
+
+	sen3 dq 50,60,70
+
+	sen4 dw 100
+
+	sen1 db "string",10,0
+
+section .bss
+
+	a resb 4
+
+	b resq 6
+
+	c resd 10
+
+	zz resw 10
+
+section .text
+
+	global main
+
+	extern printf
+
